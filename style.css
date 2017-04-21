@@ -8,7 +8,7 @@
 
 }
 
-td {
+.square {
     height: 200px;
     width: 200px;
     background-color: white;
@@ -24,3 +24,21 @@ td {
     border-style: solid;
 }
 
+#scoreboard {
+    width: 210px;
+    background-color: red;
+    margin: 0 auto;
+    border-style: solid;
+}
+
+/*td {
+    height: 50px;
+    width:  50px;
+}*/
+
+.scoreinfo {
+    font-size: 35px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
